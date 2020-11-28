@@ -1,8 +1,6 @@
-# **Behavioral Cloning** 
+# **Udacity Simulator** 
 
-## Writeup Template
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
+ 
 
 ---
 
@@ -15,24 +13,8 @@ The goals / steps of this project are the following:
 * Test that the model successfully drives around track one without leaving the road
 * Summarize the results with a written report
 
-
-[//]: # (Image References)
-
-[image1]: ./examples/left_2018_05_07_22_03_08_447.jpg "Left Image"
-[image2]: ./examples/right_2018_05_07_22_03_08_447.jpg "Right Image"
-[image3]: ./examples/center_2018_05_07_22_03_08_447.jpg "Center Image"
-
-[image4]: ./examples/left_2018_05_14_22_58_02_995.jpg "Left Image"
-[image5]: ./examples/right_2018_05_14_22_58_02_995.jpg "Right Image"
-[image6]: ./examples/center_2018_05_14_22_58_02_995.jpg "Center Image"
-
-[image8]: https://devblogs.nvidia.com/parallelforall/wp-content/uploads/2016/08/cnn-architecture-624x890.png "Nvidia CNN model"
-
-## Rubric Points
-### I considered the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and described how I addressed each point in my implementation.  
-
 ---
-### Files Submitted & Code Quality
+
 
 #### 1. Submission includes all required files and can be used to run the simulator in autonomous mode
 
